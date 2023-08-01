@@ -1,6 +1,8 @@
 # KSealedBinding
 
-**KSealedBinding** is an automatic generation tool for binding functions designed for sealed classes or interfaces in Kotlin. It eradicates the need for manual function creation and excessive use of 'when' and 'if' statements, greatly enhancing code efficiency and readability. **KSealedBinding** offers Kotlin programmers an optimized and streamlined experience when working with sealed classes or interfaces. (**KSealedBinding**은 Kotlin의 sealed 클래스나 인터페이스에 대한 바인딩 함수를 자동으로 생성하는 도구입니다. 이 도구는 수동 함수 생성과 'when'이나 'if'문의 과도한 사용이 필요 없게 만들어 코드 효율성과 가독성을 크게 향상시킵니다. **KSealedBinding**은 sealed 클래스나 인터페이스를 작업할 때 Kotlin 프로그래머들에게 최적화되고 간소화된 경험을 제공합니다.)
+**KSealedBinding** is an automatic generation tool for binding functions designed for sealed classes or interfaces in Kotlin. It eradicates the need for manual function creation and excessive use of 'when' and 'if' statements, greatly enhancing code efficiency and readability. **KSealedBinding** offers Kotlin programmers an optimized and streamlined experience when working with sealed classes or interfaces.
+
+(**KSealedBinding**은 Kotlin의 sealed 클래스나 인터페이스에 대한 바인딩 함수를 자동으로 생성하는 도구입니다. 이 도구는 수동 함수 생성과 'when'이나 'if'문의 과도한 사용이 필요 없게 만들어 코드 효율성과 가독성을 크게 향상시킵니다. **KSealedBinding**은 sealed 클래스나 인터페이스를 작업할 때 Kotlin 프로그래머들에게 최적화되고 간소화된 경험을 제공합니다.)
 
 ## How to use
 > In module level build.gradle
